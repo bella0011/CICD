@@ -20,3 +20,4 @@ CICD tools are used to facilitate continuous integration and continuous delivery
 - https://youtu.be/M4CXOocovZ4 
 - https://about.gitlab.com/topics/ci-cd/ 
 - https://www.ibm.com/cloud/blog/ci-cd-pipeline 
+- https://www.atlassian.com/continuous-delivery/continuous-integration/tools
