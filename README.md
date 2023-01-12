@@ -6,15 +6,14 @@ Continuous integration and continuous delivery (CI/CD) are related to the softwa
 
 
 ## **CICD Tools and Why They Are Used**
-CICD tools are used to facilitate continuous integration and continuous delivery. They automate the software development process by supporting integration, testing and deployment. A few popular CICD tools include:
-- Jenkins: 
-- BitBucket Pipelines: 
-- AWS Code Pipeline: 
-- Circle CI:
-- Azure Pipelines: 
-- GitLab: 
-- Atlassian Bamboo: 
-
+CICD tools are used to facilitate continuous integration and continuous delivery by automating CICD workflows or 'pipelines'. They supporting integration, testing and deployment. A few popular CICD tools include:
+- Jenkins
+- BitBucket Pipelines
+- AWS Code Pipeline
+- Circle CI
+- Azure Pipelines
+- GitLab
+- Atlassian Bamboo
 
 
 ## Resources 
